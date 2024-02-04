@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Keano Ricketts</h1>
-<h3 align="center">A passionate software developer from th UK</h3>
+<h3 align="center">A passionate software developer from the UK</h3>
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" img align="right" alt="Coding" width="400">
 
 
