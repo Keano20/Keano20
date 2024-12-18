@@ -2,10 +2,7 @@
 # Developer Portfolio
 👋 Welcome! I’m Keano, a final-year Software Development student with a passion for crafting innovative, user-friendly, and high-performance solutions. This README highlights my ongoing projects, technical skills, and aspirations as a developer.
 
-## 📋 Table of Contents
-- [Current Projects](#current-projects)
-- [Learning Goals](#learning-goals)
-- [Connect](#connect)
+## 📋 Currently working on
 
 ### 🎮 Cross-Platform Game Development
 Building a game with **SFML** to ensure smooth gameplay and portability across platforms, leveraging:
