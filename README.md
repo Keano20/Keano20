@@ -32,4 +32,3 @@ Feel free to reach out through:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keano20&show_icons=true&locale=en" alt="keano20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keano20&" alt="keano20" /></p>
