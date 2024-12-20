@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 # Developer Portfolio
-👋 Welcome! I’m Keano, a final-year Software Development student with a passion for crafting innovative, user-friendly, and high-performance solutions. This README highlights my ongoing projects, technical skills, and aspirations as a developer.
+👋 Welcome! I’m Keano, a final-year Software Development student.
 
 ## 📋 Currently working on
 
