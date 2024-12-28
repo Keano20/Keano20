@@ -10,7 +10,7 @@ Building a game with **SFML** to ensure smooth gameplay and portability across p
 - Focus on performance optimization and resource management.
 
 ### 🌍 City-Exploration Website
-A user-friendly website combining my coding expertise with modern UI/UX design principles to deliver:
+A user-friendly website utilising multiple API's to deliver:
 - Seamless navigation.
 - A visually engaging interface for users to explore.
 
