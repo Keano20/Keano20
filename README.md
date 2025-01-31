@@ -4,8 +4,8 @@
 
 ## 📋 Currently working on
 
-### 🎮 Cross-Platform Game Development
-Building a game with **SFML** to ensure smooth gameplay and portability across platforms, leveraging:
+### 🎮 Cross-Platform Development
+Building a Physics engine with **SFML** with a focus on portability across platforms, leveraging:
 - Modern C++ practices.
 - Focus on performance optimization and resource management.
 
