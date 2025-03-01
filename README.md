@@ -25,7 +25,6 @@ Iâ€™m always open to collaboration, feedback, and brainstorming new ideas. Letâ€
 
 Feel free to reach out through:
 - **[LinkedIn](#)** (https://www.linkedin.com/in/keanoricketts/)
-- **[GitHub](#)** (https://github.com/Keano20)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keano20&show_icons=true&locale=en&layout=compact" alt="keano20" /></p>
