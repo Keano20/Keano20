@@ -15,7 +15,7 @@ A user-friendly website utilising multiple API's to deliver:
 - A visually engaging interface for users to explore.
 
 ## 📚 Learning Goals
-I’m passionate about continuous improvement and am currently exploring:
+I’m passionate about continuous improvement. I am currently exploring:
 - Memory-safe programming practices with Rust.
 - Advanced techniques in C++ for resource management and optimization.
 - User experience design principles to create intuitive software.
