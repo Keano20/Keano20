@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 # Developer Portfolio
-👋 Welcome! I’m Keano, a Graduate software developer.
+👋 Welcome! I’m Keano, a UK based software deveoper.
 
 ## 📋 Currently working on
 
