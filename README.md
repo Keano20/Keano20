@@ -1,27 +1,26 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 # Developer Portfolio
-👋 Welcome! I’m Keano, a UK based software deveoper.
+Welcome! I’m Keano, a UK based software deveoper.
 
 ## 📋 Currently working on
 
-### 🎮 Cross-Platform Development
-Building a Physics engine with **SFML** with a focus on portability across platforms, leveraging:
-- Modern C++ practices.
-- Focus on performance optimization and resource management.
+### 💰 Spendle - Personal Finance Tracker
+A Full-stack finance management app built with C#, .NET, and MongoDB.
+- Features secure user authentication with hashed passwords and sessions.
+- structured for future Azure deployment.
+- Currently in active development.
 
-### 🌍 City-Exploration Website
-A user-friendly website utilising multiple API's to deliver:
-- Seamless navigation.
-- A visually engaging interface for users to explore.
+### 🧩 General Development Practice
+Continuing to strengthen my understanding of C#, .NET, and software design principles through small-scale projects and feature experiments.
 
 ## 📚 Learning Goals
-I’m passionate about continuous improvement. I am currently exploring:
-- Memory-safe programming practices with Rust.
-- Advanced techniques in C++ for resource management and optimization.
-- User experience design principles to create intuitive software.
+I am currently focused on improving my backend development workflow and overall code quality by exploring:
+- Clean architecture and separation of concerns in .NET.
+- Data validation, error handling, and testing practices.
+- Broader full-stack concepts and deployment strategies.
 
 ## 🤝 Connect
-I’m always open to collaboration, feedback, and brainstorming new ideas. Let’s create something amazing together!
+I’m always open to feedback! 
 
 Feel free to reach out through:
 - **[LinkedIn](#)** (https://www.linkedin.com/in/keanoricketts/)
