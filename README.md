@@ -20,8 +20,6 @@ I am currently focused on improving my backend development workflow and overall 
 - Broader full-stack concepts and deployment strategies.
 
 ## 🤝 Connect
-I’m always open to feedback! 
-
 Feel free to reach out through:
 - **[LinkedIn](#)** (https://www.linkedin.com/in/keanoricketts/)
 
