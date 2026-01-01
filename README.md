@@ -25,3 +25,5 @@ Feel free to reach out through:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keano20&show_icons=true&locale=en&layout=compact" alt="keano20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keano20&show_icons=true&locale=en" alt="keano20" /></p>
