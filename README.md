@@ -5,7 +5,7 @@ Welcome! I’m Keano, a UK based software deveoper.
 ## 📋 Currently working on
 
 ### 💰 Spendle - Personal Finance Tracker
-A Full-stack finance management app built with C#, .NET, and MongoDB.
+A Full-stack finance management app built with C#, .NET, and Micrsoft Azure SQL Database.
 - Features secure user authentication with hashed passwords and sessions.
 - structured for future Azure deployment.
 - Currently in active development.
